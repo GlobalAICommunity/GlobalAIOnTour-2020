@@ -6,8 +6,7 @@ and firstly a big **'Thank You'** for hosting a Global AI Tour stop in your loca
 Take a look at all the communities also getting involved: [Global AI on Tour locations](https://globalai.community/global-ai-on-tour)
 
 ## Supporting materials
-
-Need some artwork? [ArtWork Repo](https://github.com/GlobalAICommunity/Artwork)
+ - [ArtWork Repo](https://github.com/GlobalAICommunity/Artwork)
 
 ## Workshops
 
