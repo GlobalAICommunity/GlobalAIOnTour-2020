@@ -8,6 +8,7 @@ Take a look at all the communities also getting involved: [Global AI on Tour loc
 ## Supporting materials
  - [ArtWork Repo](https://github.com/GlobalAICommunity/Artwork)
  - [Powerpoint Template](https://github.com/GlobalAICommunity/Artwork/raw/master/Global%20AI%20on%20Tour%202020/GlobalAITourTemplate.potx)
+ - [Sample code of conduct](https://confcodeofconduct.com/)
 
 ## Workshops
 
