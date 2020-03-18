@@ -20,13 +20,13 @@ Take a look at all the communities also getting involved: [Global AI on Tour loc
     * **Technologies included:** Azure Custom Vision, Logic Apps
 
 #### Workshop 2: 
-* [**Session Title:** Integrate custom skills in azure cognitive search]()
+* [**Session Title:** Integrate custom skills in azure cognitive search](http://aka.ms/aiml10-workshop)
     * **Session Abstract:** In this workshop you will make sense of unstructured data using AI services. You are a Tailwind Traders developer and Tailwind Traders has a lot of legacy data that they’d like to leverage in their apps. This data is from various sources, both structured and unstructured, and includes images, forms, pdf files etc. 
 You'll learn how you can build an end-to-end architecture, with Azure Cognitive Search at its heart, to make sense of this unstructured data within the business. You’ll be introduced to AI concepts, like the ingest-enrich-explore pattern, skillsets, cognitive skills, natural language processing, computer vision, and beyond.
     * **Technologies included:** Azure Cognitive Search, Azure Storage and Storage Explorer, Azure Cognitive Services including Forms Recognizer, Azure Functions.
 
 #### Workshop 3: 
-* [**Session Title:** No-code/Low-code machine learning]()
+* [**Session Title:** No-code/Low-code machine learning](http://aka.ms/aiml30-workshop)
     * **Session Abstract:** In this workshop you will start building machine learning models – faster than you think. Tailwind Traders uses custom machine learning models to fix their inventory issues – without changing their Software Development Life Cycle! How? Using Azure Machine Learning Visual Interface.
 You’ll learn about the data science process and get an introduction to Azure Machine Learning Visual Interface. You’ll see how to find, import, and prepare data, select a machine learning algorithm, train and test the model, and deploy a complete model to an API. Get the tips, best practices, and resources you and your development team need to continue your machine learning journey, build your first model, and more.
     * **Technologies included:** Azure Machine Learning Visual Interface, Azure Machine Learning Service, Visual Studio Code, Azure Machine Learning Notebook VMs
@@ -41,7 +41,7 @@ The goal of this workshop is to bring some of the best practices of building the
 ### Data Scientist Track
 
 #### Workshop: 
-* [**Session Title:** Deep Learning from data to production]()
+* [**Session Title:** Deep Learning from data to production](https://github.com/cloudscaleml/workshop)
     * **Session Abstract:** This full day workshop is designed to get attendees up to speed on the rudiments of modern machine learning at cloud scale via both theory and hands on content. The day starts with working on the foundational concepts of supervised machine learning which you will apply locally using scikit-learn and Tensorflow frameworks. After working locally, the workshop will support you in creating your first cloud machine learning experiment by utilizing Azure Machine Learning offerings. Next you will dive deeper into Azure Machine Learning advanced experimentation techniques by exploring hyperparameter tuning, automated machine learning and machine learning pipelines. Taking steps to improve your model and creating agility and ease of tracking when it comes to tuning it. Finally, the workshop will present the intersection between Data Science and DevOps. Taking your cloud model and managing its lifecycle into production and beyond. By the end of the day you will have worked on each stage of the machine learning lifecycle and explored cloud tooling that can support your bespoke machine learning projects.
 
 
