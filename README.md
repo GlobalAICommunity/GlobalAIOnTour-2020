@@ -15,7 +15,7 @@ Take a look at all the communities also getting involved: [Global AI on Tour loc
 ### AI Developer Track
 
 #### Workshop 1: 
-* [**Session Title:** Creating an application that can see, build your own AI model]()
+* [**Session Title:** Creating an application that can see, build your own AI model](https://github.com/GlobalAICommunity/Workshop-CustomVisionAITools)
     * **Session Abstract:** In this workshop you will be introduced to the Microsoft Azure Cognitive Services, a range of offerings you can use to infuse intelligence and machine learning into your applications without needing to build the code from scratch. We will cover pre-trained AI APIs, such as computer vision, that are accessed by REST protocol. Next, we will dive into Custom AI that uses transfer learning - Microsoft Azure Custom Vision. This enables you to provide a small amount of your own data to train an image classification model. Wrapping the workshop up by building our custom trained AI into an application - using Logic Apps, this technology is ideal for building data pipeline processes that work with your machine learning models.
     * **Technologies included:** Azure Custom Vision, Logic Apps
 
@@ -32,7 +32,7 @@ You’ll learn about the data science process and get an introduction to Azure M
     * **Technologies included:** Azure Machine Learning Visual Interface, Azure Machine Learning Service, Visual Studio Code, Azure Machine Learning Notebook VMs
 
 #### Workshop 4: 
-* [**Session Title:** Conversational AI]()
+* [**Session Title:** Conversational AI](https://github.com/GlobalAICommunity/Workshop-Conversational-AI)
     * **Session Abstract:** There is a growing demand on building conversational agents that empower human-machine interaction in natural language. Despite the proliferation of virtual personal assistants, building these agents remains to be difficult and there still remains plenty of unanswered questions and challenges. The conversational AI platform that is based on the BotFramework (BF), and uses tools of Natural Language understanding (Language Understanding Service LUIS) and dialog design (Dialog Composer), addresses many of these challenges to enable building these agents with relative ease.
 The goal of this workshop is to bring some of the best practices of building these conversational agents using the tools of BF and Cognitive Services. While it would be an opportunity to share some of the new and exciting features of the BF, the Dialog Composer and LUIS, we will also run through best practices that are involved in the design of systems. 
     * **Technologies included:** Bot Framework, Language Understanding Service (LUIS), Dialog Composer
